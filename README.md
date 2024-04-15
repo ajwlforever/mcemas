@@ -1,2 +1,2 @@
 # mcemas
-mcemas: A model Checker for epistemic multi-agent system
+mcemas: A model Checker for Epistemic Multi-Agent System
